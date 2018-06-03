@@ -18,7 +18,7 @@
     components: {
       MHeader,
       Tab,
-      Player，
+      Player,
     }
   }
 </script>
